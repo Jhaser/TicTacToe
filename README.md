@@ -1,8 +1,8 @@
 # TicTacToe
-- derived inspiration for organization of classes from stackoverflow
+Learnt from others via stackoverflow
 
-There are many ways to create a tictactoe game
-- i made use of List<>T as it was one of the latest class type i learnt
+- made use of List<>T as it was one of the latest class type i learnt
 - organized my code via modular programming which made debugging hella easier
+- wanted a dynamic game board so that users could see live changes 
 
 Hope this will be useful. 
